@@ -300,7 +300,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-**Built with ❤️ by [shashavali-8524](https://github.com/shashavali-8524)**
+**Built with ❤️ by [shashavali](https://github.com/shashavali-8524)**
 
 *If this project helped you, consider giving it a ⭐ on GitHub!*
 
